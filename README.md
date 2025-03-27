@@ -16,8 +16,12 @@ This is a simple ATM Account System implemented in C++. It allows users to depos
 ### Compilation 
 To compile the program, use the following command: 
 
+'g++ atm_system.cpp -o atm_system'
+
 ### Running the Program 
 Run the compiled executable:
+
+'./atm_system'
 
 ## Usage 
 1. Run the program.
