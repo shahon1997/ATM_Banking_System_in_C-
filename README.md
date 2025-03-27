@@ -20,7 +20,15 @@ To compile the program, use the following command:
 Run the compiled executable:
 
 ## Usage 
-1. Run the program. 2. Choose an option from the menu: - `1` to Deposit - `2` to Withdraw - `3` to Display Balance - `4` to Exit 3. Enter your account number. 4. Perform the desired operation. 5. The data is automatically saved to `accounts.txt`.
+1. Run the program.
+2. Choose an option from the menu: -
+   `1` to Deposit -
+   `2` to Withdraw -
+   `3` to Display Balance -
+   `4` to Exit
+3. Enter your account number.
+4. Perform the desired operation.
+5. The data is automatically saved to `accounts.txt`.
 
 ## File Format (`accounts.txt`) The `accounts.txt` file stores account details in the following format:
 
